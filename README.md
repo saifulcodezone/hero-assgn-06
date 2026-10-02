@@ -3,6 +3,9 @@
 A dark, no-nonsense gym companion built with Next.js. Browse 12 workouts, build your daily plan, save favorites for later, and track your progress — all with live stats and toast notifications.
 
 ---
+## 🚀 Live Site
+
+🔗 [https://hero-assgn-06-saiful.netlify.app]
 
 ## 🛠️ Technologies Used
 
